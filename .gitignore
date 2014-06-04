@@ -1,0 +1,11 @@
+*.scc
+*.vbw
+*.log
+*.sh
+*.obj
+*.exe
+*.exp
+*.lib
+*.dll
+*.vbg
+*.frx
